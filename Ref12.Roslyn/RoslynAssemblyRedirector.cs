@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Reflection;
-using Microsoft.VisualStudio.Text;
 
 namespace SLaks.Ref12 {
 	///<summary>Redirects loads of Roslyn assemblies to the version in the current VS instance.</summary>
